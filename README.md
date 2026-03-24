@@ -4,13 +4,13 @@ Gamepad for Music è un'applicazione web Full-Stack progettata per esplorare nuo
 🚀 Caratteristiche principali
 - Utilizzo delle Gamepad API per mappare gli input analogici e digitali del controller.
 - Sistema di gestione brani basato su PHP e MySQL.
-- Controllo dinamico delle tracce audio (Play/Pause, Volume, Panning) tramite le levette e i tasti del gamepad.
+- Controllo dinamico delle tracce audio (Pitch, Distorsione, Bitcrusher, Volume, Panning) tramite le levette e i tasti del gamepad.
 - Sviluppato e testato in ambiente locale tramite XAMPP.
 
 🛠️ Tecnologie Utilizzate
-Frontend: HTML5, CSS3, JavaScript (Gamepad & Web Audio API).
+Frontend: HTML5, CSS3, JavaScript.
 Backend: PHP.
-Database: MySQL / MariaDB.
+Database: MySQL.
 Ambiente di sviluppo: XAMPP.
 
 📂 Struttura del Progetto
